@@ -42,3 +42,7 @@ name = "Tony Stark"
 
 print(name.find('S'))
 print(name.replace("Tony Stark","Ironman"))
+
+print('T' in name) 
+
+print('m' in name)
